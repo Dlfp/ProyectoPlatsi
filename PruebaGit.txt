@@ -1,2 +1,3 @@
 Este es un archivo ejemplo para Git
 Segunda linea para validar los cambios en el git
+Voy a agregar una tercera linea porque el profe así lo dijo
